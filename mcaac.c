@@ -49,11 +49,11 @@ int main(){
     while(d!=0){
       
         scanf("%d", &j);
-        
-        
+    
         m=j;
-        printf("%d",j);
+        
         if(j>0){
+            
           for(k=0;k<j;k++){
 
             scanf(" %d", &info);
